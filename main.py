@@ -128,10 +128,6 @@ def pause_game():
 screen.onkey(pause_game, "p")
 
 
-def qwe():
-    score.reset_score()
-
-
 start_game()
 
 
